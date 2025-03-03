@@ -1,13 +1,7 @@
-# 🌟 Hotspotti Mobile App
+# Hotspotti Mobile App
 
-<div align="center">
-  <img src="./assets/icon.png" alt="Hotspotti Logo" width="120" height="120"/>
-  
-  [![Expo](https://img.shields.io/badge/Expo-51.0.28-blue.svg)](https://expo.dev)
-  [![React Native](https://img.shields.io/badge/React%20Native-0.74.5-blue.svg)](https://reactnative.dev)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-5.3.3-blue.svg)](https://www.typescriptlang.org/)
-  
-  A modern, feature-rich mobile application for discovering and exploring hotspots around you.
+A modern, feature-rich mobile application for discovering and exploring hotspots around you.
+
 </div>
 
 ## 📱 Features
